@@ -1,0 +1,4 @@
+[29-Jan-2026 18:53:55 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 766
+[29-Jan-2026 18:53:55 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 769
+[29-Jan-2026 18:58:23 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 766
+[29-Jan-2026 18:58:23 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 769
