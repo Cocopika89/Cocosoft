@@ -1,0 +1,27 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Hover classique pour boutons Gutenberg */
+a.wp-element-button,
+.wp-block-button__link {
+  display: inline-block;
+  transition: transform 160ms ease, filter 160ms ease, background-color 160ms ease, box-shadow 160ms ease;
+  will-change: transform;
+}
+
+a.wp-element-button:hover,
+a.wp-element-button:focus-visible,
+.wp-block-button__link:hover,
+.wp-block-button__link:focus-visible {
+  transform: scale(1.05);
+  filter: brightness(1.12) saturate(1.15);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.22);
+}
+
+a.wp-element-button:active,
+.wp-block-button__link:active {
+  transform: scale(1.02);
+}
+ 
+
+</style>
+<!-- end Simple Custom CSS and JS -->
