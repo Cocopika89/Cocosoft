@@ -13,3 +13,5 @@
 [09-Feb-2026 19:42:33 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-content\plugins\ewww-image-optimizer\common.php on line 12304
 [09-Feb-2026 19:42:48 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-content\plugins\ewww-image-optimizer\common.php on line 12304
 [09-Feb-2026 19:42:48 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-content\plugins\ewww-image-optimizer\common.php on line 12304
+[15-Feb-2026 11:38:34 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 766
+[15-Feb-2026 11:38:34 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\coren\Local Sites\Cocosoft\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 769
