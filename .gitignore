@@ -16,3 +16,8 @@ node_modules/
 # Build / dist
 dist/
 build/
+
+# LocalWP internals (optionnel mais conseillé)
+conf/
+logs/
+app/sql/
