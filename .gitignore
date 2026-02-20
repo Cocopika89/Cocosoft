@@ -21,3 +21,14 @@ build/
 conf/
 logs/
 app/sql/
+
+# LocalWP WordPress install
+app/public/wp-admin/
+app/public/wp-includes/
+app/public/wp-content/uploads/
+app/public/wp-config.php
+
+# LocalWP internals
+conf/
+logs/
+app/sql/
